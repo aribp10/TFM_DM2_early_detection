@@ -5,7 +5,6 @@ Aquest projecte presenta una solució integral d'anàlisi predictiva per al diag
 ## 🚀 Característiques del Projecte
 
 - **Processament de Dades Clíniques:** Neteja i unificació de datasets, tractament de valors nuls i enginyeria de variables (símptomes i dades biomètriques).
-- **Estratègia Anti-Biaix:** Selecció rigorosa de la *primera prova* registrada per cada pacient per evitar el "biaix de tractament" i capturar l'estat metabòlic original.
 - **Models Predictius:** Comparativa de rendiment entre Regressió Logística, XGBoost i Xarxes Neuronals Artificials (MLP).
 - **Explicabilitat (SHAP):** Implementació de valors SHAP per desxifrar la "caixa negra" dels models i entendre l'impacte de variables com la Hb-Glicosilada o l'HDL-Colesterol.
 - **Dashboard de Suport Clínic:** Quadre de comandament interactiu a Power BI per a la gestió poblacional i el diagnòstic individualitzat.
