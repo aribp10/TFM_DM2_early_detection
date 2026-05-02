@@ -40,4 +40,5 @@ Aquest projecte demostra com la integració de models predictius i eines de BI p
 
 ---
 **Autor:** Ari Pidevall 
+
 **Projecte realitzat per al Treball Final de Màster de Ciència de dades de la UOC**
